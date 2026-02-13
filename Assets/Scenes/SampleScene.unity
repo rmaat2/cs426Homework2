@@ -1672,6 +1672,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1021643849376527195, guid: d0e295469c3ac554596a95f42f4e0935, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2209747397745862181, guid: d0e295469c3ac554596a95f42f4e0935, type: 3}
       propertyPath: m_Name
       value: Desk
