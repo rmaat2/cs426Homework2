@@ -5,6 +5,7 @@ using Unity.Netcode;
 public class PlayerMovement : NetworkBehaviour
 {
     public float speed = 2f;
+    public float rotationSpeed = 90f;
 
     public List<Color> colors = new List<Color>();
 
